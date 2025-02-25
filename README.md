@@ -8,7 +8,7 @@
     - **ML**（機器學習）：AI 的子集，基於數據學習模式。
     - **DL**（深度學習）：ML 的進階方法，使用神經網路來學習。
 
-2. AI 如何學習？
+3. AI 如何學習？
    ### 1. **監督學習（Supervised Learning）**
 
     🔹 **概念**：給模型提供「已標註的數據」，讓它學習輸入與輸出的關係。
@@ -20,7 +20,7 @@
       - **分類（Classification）**：例如垃圾郵件過濾（判斷郵件是否為垃圾郵件）。
       - **回歸（Regression）**：例如房價預測（根據房屋特徵預測價格）。
 
-  ### 2. **非監督學習（Unsupervised Learning）**
+    ### 2. **非監督學習（Unsupervised Learning）**
 
     🔹 **概念**：模型在**沒有標籤的數據**中，自行尋找規律或結構。
 
@@ -31,7 +31,7 @@
       - **聚類（Clustering）**：例如市場客群分析（根據購買行為將客戶分組）。
       - **降維（Dimensionality Reduction）**：例如主成分分析（PCA）來簡化數據結構。
 
-### 3. **強化學習（Reinforcement Learning, RL）**
+    ### 3. **強化學習（Reinforcement Learning, RL）**    
 
     🔹 **概念**：透過「試誤（Trial and Error）」學習，模型與環境互動，根據「獎勵」來調整行為。
 
