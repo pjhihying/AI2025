@@ -14,7 +14,7 @@
 學習重點：學會運用形容詞與動作描述，使角色視覺上更具活力
 ![image](https://github.com/pjhihying/temp/blob/main/一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。.png)
 ### 「一隻疲累的卡通狗，蜷縮著身體在睡覺」
-![image](https://github.com/user-attachments/assets/bd09d47e-1108-460e-82d7-86695a34c614)
+![image](https://github.com/pjhihying/temp/blob/main/一隻疲累的卡通狗，蜷縮著身體在睡覺.png)
 
 
 ## **Lab 2: 超級英雄漫畫風格**
