@@ -28,7 +28,7 @@
 ### 「一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。」
 
 學習重點：理解如何透過色彩與動作表現角色的氣場與強烈視覺衝擊。
-![image](https://github.com/user-attachments/assets/0697911a-c0d6-498a-aa5c-ff9e2b174173)
+![image](https://github.com/pjhihying/temp/blob/main/一位超級英雄飛過城市，粗體線條和鮮艷色彩，具有美國漫畫風格。.png)
 ### 「一位超級英雄飛過城市，粗體線條和藍色色調，帶有科技感的超級英雄，具有美國漫畫風格。」
 ![image](https://github.com/user-attachments/assets/b9b7605e-99eb-4b0d-abf9-0a0a005f1d05)
 
