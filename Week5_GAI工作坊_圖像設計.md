@@ -12,7 +12,7 @@
 ### 「一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。」
 
 學習重點：學會運用形容詞與動作描述，使角色視覺上更具活力
-![image]([https://github.com/user-attachments/assets/fc487dbe-02ab-43fd-82c9-f1f3148ed197](https://github.com/pjhihying/temp/blob/main/%E4%B8%80%E9%9A%BB%E9%96%8B%E6%9C%97%E7%9A%84%E5%8D%A1%E9%80%9A%E7%8B%97%EF%BC%8C%E5%A4%A7%E7%9C%BC%E7%9D%9B%EF%BC%8C%E8%AA%87%E5%BC%B5%E7%9A%84%E5%8B%95%E4%BD%9C%EF%BC%8C%E5%85%85%E6%BB%BF%E6%B4%BB%E5%8A%9B%E5%92%8C%E5%8F%AF%E6%84%9B%E7%9A%84%E8%A1%A8%E6%83%85%E3%80%82.png?raw=true))
+![image](https://github.com/pjhihying/temp/blob/main/一隻開朗的卡通狗，大眼睛，誇張的動作，充滿活力和可愛的表情。.png)
 ### 「一隻疲累的卡通狗，蜷縮著身體在睡覺」
 ![image](https://github.com/user-attachments/assets/bd09d47e-1108-460e-82d7-86695a34c614)
 
