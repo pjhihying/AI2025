@@ -44,9 +44,9 @@
 ### 「清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。」
 
 學習重點：掌握自然光影的描繪技巧，理解景物細節如何增強畫面真實感。
-![image](https://github.com/user-attachments/assets/79cb7c10-42e9-4902-b326-47779fd385d1)
+![image](https://github.com/pjhihying/temp/blob/main/清晨的森林景象，陽光穿過樹梢，地面覆蓋著濕潤的青苔和落葉。.png)
 ### 「午後的森林景象，楓樹被金黃色的陽光映襯，落葉飄落在地，形成層層疊疊的暖色調地毯。」
-![image](https://github.com/user-attachments/assets/3461b120-c685-4485-98de-7cd93ffc2aff)
+![image](https://github.com/pjhihying/temp/blob/main/午後的森林景象，楓樹被金黃色的陽光映襯，落葉飄落在地，形成層層疊疊的暖色調地毯。.png)
 
 ## **Lab 4: 現代城市夜景**
 
@@ -59,9 +59,9 @@
 ### 「夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。」
 
 學習重點：理解城市環境中的光影效果，學習如何運用反射與燈光來增強夜景的立體感。
-![image](https://github.com/user-attachments/assets/186fca2e-6c78-464f-a2cc-dd6c39333581)
+![image](https://github.com/pjhihying/temp/blob/main/夜晚的繁忙城市街道，霓虹燈閃爍，路面反射著雨後的光。.png)
 ### 「夜晚的寧靜城市小巷，住宅的窗戶透出暖黃色的燈光，路面反射著雨後的光。」
-![image](https://github.com/user-attachments/assets/61cdcd07-f069-4ee3-8101-5a7afb5c6ad7)
+![image](https://github.com/pjhihying/temp/blob/main/夜晚的寧靜城市小巷，住宅的窗戶透出暖黃色的燈光，路面反射著雨後的光。.png)
 
 ## 所屬分類 3：印象派與表現主義
 ## **Lab 5: 印象派風景**
@@ -75,7 +75,7 @@
 ### 「以克勞德·莫內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。」
 
 學習重點：理解印象派如何透過光影與色彩變化來捕捉瞬間的美感。
-![image](https://github.com/user-attachments/assets/a6d06752-dc47-40ad-a9a5-4b7f8a4af3bd)
+![image](https://github.com/pjhihying/temp/blob/main/以克勞德·莫內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。.png)
 ### 「以克勞德·莫內風格呈現的奇幻的景象，柔和的筆觸和豐富的色彩，水面倒映著天空。」
 ![image](https://github.com/user-attachments/assets/8c21d76f-69da-4b27-b3b7-232f0790e554)
 ## **Lab 6: 表現主義肖像**
@@ -89,9 +89,9 @@
 ### 「一個情緒激動的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」
 
 學習重點：學會如何運用強烈的色彩對比來增強情感表現。
-![image](https://github.com/user-attachments/assets/ed40d0cc-32bb-40ef-9673-bc9cc117fdce)
+![image](https://github.com/pjhihying/temp/blob/main/一個情緒激動的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。.png)
 ### 「一個情緒冷靜的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」
-![image](https://github.com/user-attachments/assets/44a82433-39a0-4dab-9fe9-4686f5df867e)
+![image](https://github.com/pjhihying/temp/blob/main/一個情緒冷靜的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。)
 
 ## 所屬分類 4：幾何與抽象藝術
 ## **Lab 7: 幾何抽象設計**
@@ -105,11 +105,11 @@
 ### 「重疊的圓形和方形，使用鮮明的原色組合，具有包豪斯風格的抽象設計。」
 
 學習重點：理解幾何結構如何影響視覺焦點，學習如何平衡圖形構成。
-![image](https://github.com/user-attachments/assets/ed7d62f5-15da-4bc3-bf49-399746e5629b)
+![image](https://github.com/pjhihying/temp/blob/main/重疊的圓形和方形，使用鮮明的原色組合，具有包豪斯風格的抽象設計。.png)
 ### 「重疊的圓形和方形，使用冷色調，具有包豪斯風格的抽象設計。」
-![image](https://github.com/user-attachments/assets/6e2bcfe9-3f45-4513-a944-1705989312bf)
+![image](https://github.com/pjhihying/temp/blob/main/重疊的圓形和方形，使用冷色調，具有包豪斯風格的抽象設計。.png)
 ### 「重疊的圓形和方形，使用暖色調，具有包豪斯風格的抽象設計。」
-![image](https://github.com/user-attachments/assets/e23df48c-26c2-4887-be60-0f34efa4ad95)
+![image](https://github.com/pjhihying/temp/blob/main/重疊的圓形和方形，使用暖色調，具有包豪斯風格的抽象設計。.png)
 
 ## 所屬分類 5：文藝復興與古典風格
 ## **Lab 8: 文藝復興風格肖像**
@@ -125,7 +125,7 @@
 學習重點：理解文藝復興時期對於光影的處理與人物細節的雕琢方式。
 ![image](https://github.com/user-attachments/assets/ff493664-ba03-447c-9390-30e5677d6da0)
 ### 「一位中產階級商人的文藝復興風格肖像，穿著樸素的服飾，柔和的光線照亮臉龐。」
-![image](https://github.com/user-attachments/assets/bac71436-d2e8-42db-a09b-c976aa7374c3)
+![image](https://github.com/pjhihying/temp/blob/main/一位中產階級商人的文藝復興風格肖像，穿著樸素的服飾，柔和的光線照亮臉龐。.png)
 
 ## **Lab 9: 古典建築**
 
@@ -138,11 +138,11 @@
 ### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是藍天白雲。」
 
 學習重點：掌握建築比例與光影處理，學習如何突出建築的宏偉感。
-![image](https://github.com/user-attachments/assets/d7436493-c6e6-4015-b172-ee7533b6d8e1)
+![image](https://github.com/pjhihying/temp/blob/main/一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是藍天白雲。.png)
 ### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是清晨。」
-![image](https://github.com/user-attachments/assets/fee027e8-0d26-47d7-99c3-0bf0cd947845)
+![image](https://github.com/pjhihying/temp/blob/main/一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是清晨。.png)
 ### 「一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是黃昏。」
-![image](https://github.com/user-attachments/assets/ec387fb5-7425-49d8-9266-564f5f5862c4)
+![image](https://github.com/pjhihying/temp/blob/main/一座壯麗的古希臘神廟，雕刻精美的大理石柱子，背景是黃昏。.png)
 
 
 ## 所屬分類 6：超現實與奇幻風格
@@ -157,10 +157,10 @@
 ### 「希臘神話中的場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。」
 
 學習重點：學習如何運用戲劇性光影與動態構圖增強視覺張力。
-![image](https://github.com/user-attachments/assets/81d2b0b5-4b73-4433-9ef1-150a4f3ac4aa)
+![image](https://github.com/pjhihying/temp/blob/main/希臘神話中的場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。.png)
 
 ### 「希臘神話中的夜晚場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。」
-![image](https://github.com/user-attachments/assets/0eba1bf2-e3ea-41cb-bc2f-89e1ee95dd91)
+![image](https://github.com/pjhihying/temp/blob/main/希臘神話中的夜晚場景，宙斯站在奧林匹斯山上，手持雷霆，身旁環繞著神話生物。.png)
 
 
 ## **Lab 11: 超現實夢境**
@@ -174,9 +174,9 @@
 ### 「一個漂浮的島嶼，島上倒置的山峰，瀑布向上流向天空。」
 
 學習重點：理解如何透過顛覆物理法則與想像力，創造獨特的視覺體驗。
-![image](https://github.com/user-attachments/assets/fa647a5f-31ee-4cad-92ae-fccd0131712a)
+![image](https://github.com/pjhihying/temp/blob/main/一個漂浮的島嶼，島上倒置的山峰，瀑布向上流向天空。.png)
 ### 「一個顛倒的森林，樹木倒著生長，光線從地面透出。」
-![image](https://github.com/user-attachments/assets/7bdeb0b7-33a7-42bf-ac7a-75e8d0407165)
+![image](https://github.com/pjhihying/temp/blob/main/一個顛倒的森林，樹木倒著生長，光線從地面透出。.png)
 ## **Lab 12: 奇幻生物設計**
 
 圖像類型：奇幻生物
@@ -188,9 +188,9 @@
 ### 「一條發光的龍，透明的翅膀輕輕拍動，飛翔在薄霧籠罩的山谷上空。」
 
 學習重點：學會如何平衡生物結構的合理性與幻想元素，使角色既神秘又可信
-![image](https://github.com/user-attachments/assets/781d8826-5b1e-4dae-ba1b-0d6f7fc2d4f7)
+![image](https://github.com/pjhihying/temp/blob/main/一條發光的龍，透明的翅膀輕輕拍動，飛翔在薄霧籠罩的山谷上空。.png)
 ### 「一群螢光透明的魚，在海洋中成群結隊。」
-![image](https://github.com/user-attachments/assets/2ec845a9-6d87-41df-801a-1c3dad1aa1d0)
+![image](https://github.com/pjhihying/temp/blob/main/一群螢光透明的魚，在海洋中成群結隊。.png)
 ## 所屬分類 7：現代與未來主義
 ## **Lab 13: 未來都市**
 
@@ -203,11 +203,11 @@
 ### 「一個未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
 
 學習重點：理解未來主義建築風格，學習如何透過構圖營造未來感。
-![image](https://github.com/user-attachments/assets/1dc8b7cb-f14d-40b5-970d-d71fda324bb4)
+![image](https://github.com/pjhihying/temp/blob/main/一個未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。.png)
 ### 「一個近未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
-![image](https://github.com/user-attachments/assets/8e490afc-d9d9-474a-98bb-afac58a4c3f4)
+![image](https://github.com/pjhihying/temp/blob/main/一個近未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。.png)
 ### 「一個遠未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。」
-![image](https://github.com/user-attachments/assets/ff1541e8-9c8c-49f0-86ec-31b57aab9a6c)
+![image](https://github.com/pjhihying/temp/blob/main/一個遠未來的城市，巨大的摩天大樓和空中的飛行車輛，充滿科技感。.png)
 ## **Lab 14: 科技產品設計**
 
 圖像類型：科技產品
@@ -219,11 +219,11 @@
 ### 「一款極具科技感的手錶，帶有全息顯示屏，設計時尚簡潔。」
 
 學習重點：理解光線與材質在科技產品中的應用，學習如何透過提示語提升產品設計感。
-![image](https://github.com/user-attachments/assets/2c33c6e9-4369-4dae-8561-18670ef8d670)
+![image](https://github.com/pjhihying/temp/blob/main/一款極具科技感的手錶，帶有全息顯示屏，設計時尚簡潔。.png)
 ### 「一款極具科技感的手錶，金屬錶帶，帶有全息顯示屏，設計時尚簡潔。」
-![image](https://github.com/user-attachments/assets/6f245923-43f9-4e48-a581-2757ed35a30e)
+![image](https://github.com/pjhihying/temp/blob/main/一款極具科技感的手錶，金屬錶帶，帶有全息顯示屏，設計時尚簡潔。.png)
 ### 「一款極具科技感的手錶，玻璃鏡面，帶有全息顯示屏，設計時尚簡潔。」
-![image](https://github.com/user-attachments/assets/340ded8a-960f-47c4-a754-5b45ec64bc2f)
+![image](https://github.com/pjhihying/temp/blob/main/一款極具科技感的手錶，玻璃鏡面，帶有全息顯示屏，設計時尚簡潔。.png)
 
 ## 所屬分類 8：橫向全景與局部細節
 ## **Lab 15: 全景風景**
@@ -237,11 +237,11 @@
 ### 「生成一個寬屏尺寸的山脈全景圖，藍天和雪山占據畫面的兩側。」
 
 學習重點：掌握全景視角的構圖技術，理解透視與深度的處理方式。
-![image](https://github.com/user-attachments/assets/4fdeea13-ec2e-4196-9a7f-0183dd609da4)
+![image](https://github.com/pjhihying/temp/blob/寬屏尺寸的山脈全景圖，藍天和雪山占據畫面的兩側。.png)
 ### 「生成一個近景的山脈，就像人在山頂拍攝一樣。」
-![image](https://github.com/user-attachments/assets/a78dedde-9559-4bb3-9851-9379883f64f5)
+![image](https://github.com/pjhihying/temp/blob/近景的山脈，就像人在山頂拍攝一樣。.png)
 ### 「生成一個遠景的山脈，藍天和雪山占據畫面的兩側。」
-![image](https://github.com/user-attachments/assets/e6f724d4-9dbb-432e-bf3e-c8e5777dadf1)
+![image](https://github.com/pjhihying/temp/blob/遠景的山脈，藍天和雪山占據畫面的兩側。.png)
 ## 所屬分類 9：環境氛圍與時間感
 ## **Lab 16: 霧氣環境營造**
 
@@ -254,9 +254,9 @@
 ### 「生成一個清晨被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
 
 學習重點：掌握霧氣對光線與色彩的影響，學習如何利用模糊與漸變效果增強空間感。
-![image](https://github.com/user-attachments/assets/50221c01-52be-4db1-932a-9cd91172171d)
+![image](https://github.com/pjhihying/temp/blob/main/清晨被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。.png)
 ### 「生成一個深夜被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。」
-![image](https://github.com/user-attachments/assets/110f6a16-8753-481c-bd07-3d05105d2a17)
+![image](https://github.com/pjhihying/temp/blob/main/深夜被濃霧籠罩的森林，所有物體都隱約可見，營造出神秘的氣氛。.png)
 
 ## **Lab 17: 雨後都市風貌**
 
@@ -269,9 +269,9 @@
 ### 「生成一個下過雨後的城市街道，路面濕潤，燈光在水面上反射。」
 
 學習重點：理解濕度與光影互動的影響，學會使用細節增強場景的真實感。
-![image](https://github.com/user-attachments/assets/6241bc84-05b0-4121-9ed4-fdfabd2cc780)
+![image](https://github.com/pjhihying/temp/blob/main/下過雨後的城市街道，路面濕潤，燈光在水面上反射。.png)
 ### 「生成一個清晨下過雨後的城市街道，路面濕潤，場景在水面上反射。」
-![image](https://github.com/user-attachments/assets/fd5a6379-6074-409d-9c01-3bdbcafc5476)
+![image](https://github.com/pjhihying/temp/blob/main/清晨下過雨後的城市街道，路面濕潤，場景在水面上反射。.png)
 ## **Lab 18: 黃昏景象**
 
 圖像類型：黃昏景象
@@ -283,11 +283,11 @@
 ### 「生成一個黃昏時刻的公園，橙色的夕陽光線穿透樹葉，整個場景充滿溫暖。」
 
 學習重點：理解光線色溫對情緒的影響，學習如何使用光影變化強化畫面情感。
-
+![image](https://github.com/pjhihying/temp/blob/main/黃昏時刻的公園，橙色的夕陽光線穿透樹葉，整個場景充滿溫暖。.png)
 ### 「生成一個黃昏時刻的繁忙都市，建築物的玻璃反射黃昏的陽光。」
-![image](https://github.com/user-attachments/assets/42b0ef35-701c-449a-8134-21faf682b21e)
+![image](https://github.com/pjhihying/temp/blob/main/黃昏時刻的繁忙都市，建築物的玻璃反射黃昏的陽光。.png)
 ### 「生成一個黃昏時刻的鄉村田園，夕陽灑在農作物與農舍上。」
-![image](https://github.com/user-attachments/assets/3b5355cb-6d01-43aa-8a01-cdda5dc0b7a5)
+![image](https://github.com/pjhihying/temp/blob/main/黃昏時刻的鄉村田園，夕陽灑在農作物與農舍上。.png)
 
 ## 所屬分類 A ：自然動態細節捕捉
 ## **Lab 19: 動態水流效果**
@@ -301,12 +301,12 @@
 ### 「生成一個湍急的河流景象，水流快速運動，並且可以清晰看到水花飛濺。」
 
 學習重點：掌握動態模糊與水體運動方向的影響，學習如何透過水花與反光來增強畫面表現。
- ![image](https://github.com/user-attachments/assets/7b33248c-76e3-495a-9b82-15f735dabbc3)
+ ![image](https://github.com/pjhihying/temp/blob/main/湍急的河流景象，水流快速運動，並且可以清晰看到水花飛濺。.png)
 
 ### 「生成一個平靜湖泊景象，湖面平靜，偶有漣漪。」
-![image](https://github.com/user-attachments/assets/8cedfc1b-9edc-42f2-90ee-aa759bb046bd)
+![image](https://github.com/pjhihying/temp/blob/main/平靜湖泊景象，湖面平靜，偶有漣漪。.png)
 ### 「生成一個湍急的瀑布水流景象，水流快速運動，並且可以清晰看到水花飛濺。」
-![image](https://github.com/user-attachments/assets/14bc8c22-8f82-4b58-97e8-b4d0da8aacbb)
+![image](https://github.com/pjhihying/temp/blob/main/湍急的瀑布水流景象，水流快速運動，並且可以清晰看到水花飛濺。.png)
 ## **Lab 20: 自然動態（樹葉搖曳）**
 
 圖像類型：自然動態
@@ -319,7 +319,7 @@
 
 學習重點：學會使用柔和模糊與動態方向來呈現細微的環境變化。
 
-![image](attachment:ca6a35f1-d659-4a50-b625-da17275689ca:image.png)
+![image](https://github.com/pjhihying/temp/blob/main/在微風中輕輕搖曳的樹葉，顯示出自然的動態效果。.png)
 
 **問題:**
 
@@ -336,11 +336,11 @@
 ### 「為一個科技公司設計一個簡潔的 Logo，主題強調科技感和創新，配色以藍色和銀色為主。」
 
 學習重點：理解品牌識別設計的關鍵要素，學會如何運用形狀與色彩來傳遞品牌價值。
-![image](https://github.com/user-attachments/assets/199bb168-9be7-4a65-b2b1-9a29c006e648)
+![image](https://github.com/pjhihying/temp/blob/main/科技公司簡潔%20Logo，科技感和創新，藍色和銀色配色.png)
 ### 「為一個金融機構設計一個簡潔的 Logo，主題強調專業感和安全，配色以黃色和白色為主。」
-![image](https://github.com/user-attachments/assets/ade8a6ed-3fb3-4540-9626-17bb2cd9588a)
+![image](https://github.com/pjhihying/temp/blob/main/金融機構簡潔%20Logo，專業感和安全，黃色和白色配色.png)
 ### 「為一個遊戲公司設計一個簡潔的 Logo，主題強調趣味性和娛樂，配色以鮮豔的色彩為主。」
-![image](https://github.com/user-attachments/assets/c0d5e3fd-6084-46ca-b1ff-e15c1f47259d)
+![image](https://github.com/pjhihying/temp/blob/main/遊戲公司簡潔%20Logo，趣味性和娛樂，鮮豔色彩配色.png)
 ## 所屬分類 C：廣告與行銷設計
 ## **Lab 22: 社交媒體廣告設計**
 
@@ -353,11 +353,11 @@
 ### 「為一款新推出的智慧手機設計一張吸引人的社交媒體廣告，突顯產品的科技感與高端設計。」
 
 學習重點：理解視覺層次、色彩對比與排版對廣告點擊率的影響。
-![image](https://github.com/user-attachments/assets/873a2386-f15f-4fd9-ae53-e91e4e0d4630)
+![image](https://github.com/pjhihying/temp/blob/main/新推出的智慧手機社交媒體廣告，突顯科技感與高端設計.png)
 ### 「為一款新推出的智慧手機設計一張吸引人的社交媒體廣告，突顯產品的科技感與高端設計，高對比色彩。」
-![image](https://github.com/user-attachments/assets/e6613344-213b-4715-b29c-3d00a7473953)
+![image](https://github.com/pjhihying/temp/blob/main/新推出的智慧手機社交媒體廣告，突顯科技感與高端設計，高對比色彩.png)
 ### 「為一款新推出的智慧手機設計一張吸引人的社交媒體廣告，突顯產品的科技感與高端設計，低對比色彩。」
-![image](https://github.com/user-attachments/assets/f441b928-d816-470a-872d-ca94eca1cb8c)
+![image](https://github.com/pjhihying/temp/blob/main/新推出的智慧手機社交媒體廣告，突顯科技感與高端設計，低對比色彩.png)
 
 ## 所屬分類 D：產品展示與包裝設計
 ## **Lab 23: 3D 產品展示**
@@ -371,13 +371,13 @@
 ### 「生成一個新型筆記本電腦的 3D 展示圖，展示多角度視圖並強調設計的創新點。」
 
 學習重點：理解多角度視圖如何增強產品展示的說服力，學習如何運用光影提升產品質感。
-![image](https://github.com/user-attachments/assets/735eed44-b76f-469c-8321-b22acd6cc0f0)
+![image](https://github.com/pjhihying/temp/blob/main/新型筆記本電腦的%203D%20展示圖，展示多角度視圖並強調設計的創新點。.png)
 
 ### 「生成一個新型筆記本電腦的 3D 展示圖，展示正面視角並強調設計的創新點。」
-![image](https://github.com/user-attachments/assets/1d71267e-29c5-402a-9fc3-803505bf6c3a)
+![image](https://github.com/pjhihying/temp/blob/main/新型筆記本電腦的%203D%20展示圖，展示正面視角並強調設計的創新點。.png)
 
 ### 「生成一個新型筆記本電腦的 3D 展示圖，展示45 度角視角並強調設計的創新點。」
-![image](https://github.com/user-attachments/assets/efb35e6f-da4d-4e5f-b3b2-4e4424550c6f)
+![image](https://github.com/pjhihying/temp/blob/main/新型筆記本電腦的%203D%20展示圖，展示45%20度角視角並強調設計的創新點。.png)
 
 
 ## 所屬分類 E：進階與整合實驗
@@ -392,13 +392,13 @@
 ### 「在一個充滿蒸汽龐克元素的未來城市中，融合古典建築的優雅與超現實夢境般的色彩，故事中的主角是一位穿著融合現代與復古風格的探險家，在霧氣瀰漫的街道中尋找失落的文明。」
 
 學習重點：理解如何從敘事角度出發，整合多種風格元素，並創造具有故事性的畫面。
-![image](https://github.com/user-attachments/assets/c4db08fa-3fa1-42be-96f6-656106905feb)
+![image](https://github.com/pjhihying/temp/blob/main/充滿蒸汽龐克元素的未來城市，融合古典建築的優雅與超現實夢境般的色彩，主角是一位穿著融合現代與復古風格的探險家，在霧氣瀰漫的街道中尋找失落的文明。.png)
 
 ### 「生成一幅融合巴洛克與科幻元素的宮殿場景。在金碧輝煌的宮殿中，一位穿著銀色金屬盔甲和巴洛克風格華服的女性探險家站在全息星圖前，周圍充滿機械與裝飾的細節交織。穹頂描繪著未來星系，並以細緻的雕刻融入科技管線。」
-![image](https://github.com/user-attachments/assets/dfe6ea81-4822-4e21-b742-17e68105b967)
+![image](https://github.com/pjhihying/temp/blob/main/融合巴洛克與科幻元素的宮殿場景。在金碧輝煌的宮殿中，一位穿著銀色金屬盔甲和巴洛克風格華服的女性探險家站在全息星圖前，周圍充滿機械與裝飾的細節交織。穹頂描繪著未來星系，並以細緻的雕刻融入科技管線。.png)
 
 ### 「生成一幅融合未來都市與中世紀風格的場景。在未來霓虹燈閃爍的都市中，一位穿著中世紀騎士盔甲但持有未來科技光劍的守護者，守護著一座漂浮的古老石製教堂。背景中飛行車川流不息，數位屏幕投影著古老的紋章。」
-![image](https://github.com/user-attachments/assets/1e0aac5a-2f7d-4c9c-9eea-5e5dd7beac0a)
+![image](https://github.com/pjhihying/temp/blob/main/融合未來都市與中世紀風格的場景。在未來霓虹燈閃爍的都市中，一位穿著中世紀騎士盔甲但持有未來科技光劍的守護者，守護著一座漂浮的古老石製教堂。背景中飛行車川流不息，數位屏幕投影著古老的紋章。.png)
 
 ## **Lab 25: 跨領域創新應用實戰**
 
@@ -411,9 +411,9 @@
 ### 「為一家新創科技公司設計一整套品牌視覺，包括企業 Logo、產品包裝與社交媒體宣傳圖，圖像需融合極簡現代風格與未來都市感，並展現科技創新的核心精神，整體色調以冷藍與金屬灰為主。」
 
 學習重點：培養跨領域設計思維，學習如何將視覺元素與市場需求結合，提升品牌影響力。
-![image](https://github.com/user-attachments/assets/ae1503eb-a77a-4a49-8b6c-645c283b5536)
+![image](https://github.com/pjhihying/temp/blob/main/新創科技公司品牌視覺設計，包括企業%20Logo、產品包裝與社交媒體宣傳圖，融合極簡現代風格與未來都市感，展現科技創新核心精神，冷藍與金屬灰色調.png)
 ### 「設計一組高端科技品牌的完整視覺方案，包括極簡流線型 Logo、具有啞光與金屬質感的產品包裝，以及負空間設計的社交媒體廣告。整體風格需展現科技創新與專業精神，配色以冷藍與金屬灰為主。」
-![image](https://github.com/user-attachments/assets/4ace23d3-2adb-4585-8c15-51d840c651c0)
+![image](https://github.com/pjhihying/temp/blob/main/高端科技品牌完整視覺方案，包括極簡流線型%20Logo、啞光與金屬質感的產品包裝，負空間設計的社交媒體廣告，展現科技創新與專業精神，冷藍與金屬灰配色.png)
 
 ### 「設計一組創意生活品牌的完整視覺方案，包含真實感十足的手繪風 Logo、具有生活氛圍的產品包裝（強調材質紋理和光影細節），以及溫馨情感化的社交媒體廣告，主色調為珊瑚橙與柔和綠。」
-![image](https://github.com/user-attachments/assets/8426c1c5-4ac3-497c-9897-5b5486cc2e13)
+![image](https://github.com/pjhihying/temp/blob/main/創意生活品牌完整視覺方案，包括真實感手繪風%20Logo、生活氛圍產品包裝（強調材質紋理和光影細節），溫馨情感化社交媒體廣告，珊瑚橙與柔和綠主色調.png)
