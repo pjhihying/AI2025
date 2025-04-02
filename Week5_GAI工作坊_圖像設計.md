@@ -77,7 +77,7 @@
 學習重點：理解印象派如何透過光影與色彩變化來捕捉瞬間的美感。
 ![image](https://github.com/pjhihying/temp/blob/main/以克勞德·莫內風格呈現的河邊景象，柔和的筆觸和明亮的色彩，水面倒映著天空。.png)
 ### 「以克勞德·莫內風格呈現的奇幻的景象，柔和的筆觸和豐富的色彩，水面倒映著天空。」
-![image](https://github.com/user-attachments/assets/8c21d76f-69da-4b27-b3b7-232f0790e554)
+![image](https://github.com/pjhihying/temp/blob/main/一個情緒冷靜的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。.png)
 ## **Lab 6: 表現主義肖像**
 
 圖像類型：表現主義肖像
@@ -123,7 +123,7 @@
 ### 「一位貴族的文藝復興風格肖像，穿著細緻的服飾，柔和的光線照亮臉龐。」
 
 學習重點：理解文藝復興時期對於光影的處理與人物細節的雕琢方式。
-![image](https://github.com/user-attachments/assets/ff493664-ba03-447c-9390-30e5677d6da0)
+![image](https://github.com/pjhihying/temp/blob/main/一位貴族的文藝復興風格肖像，穿著細緻的服飾，柔和的光線照亮臉龐。.png)
 ### 「一位中產階級商人的文藝復興風格肖像，穿著樸素的服飾，柔和的光線照亮臉龐。」
 ![image](https://github.com/pjhihying/temp/blob/main/一位中產階級商人的文藝復興風格肖像，穿著樸素的服飾，柔和的光線照亮臉龐。.png)
 
