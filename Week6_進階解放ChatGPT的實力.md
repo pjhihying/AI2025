@@ -1,1 +1,1 @@
-#進階解放ChatGPT的實力
+# 進階解放ChatGPT的實力
