@@ -1,6 +1,6 @@
 # Week 12-13 解鎖AI創作力：從故事到影片的AI整合實戰 🚀😍
 
-## Sharing & Discussion: Reproduction Images
+## AA. Sharing & Discussion: Reproduction Images
 
 <img src="https://github.com/pjhihying/temp/blob/main/20250506_1636_%E6%9C%89%E6%A9%9F%E9%A3%9F%E5%93%81%E5%8C%85%E8%A3%9D_simple_compose_01jtjbrh8af4xs5srdxxphj2de.png" alt="image" width="300">
 
