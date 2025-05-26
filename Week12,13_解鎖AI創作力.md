@@ -146,10 +146,9 @@
 ---
 # 🎨Runway ML🧠
 ## 🧪 Lab 1：靜態角色動畫化 – 基礎操作
-
+https://app.runwayml.com/creation/6a64a17f-b16c-404b-aa1f-b6c8af7704ac
 
 ## 🧪 Lab 2：角色互動與敘事 – 進階練習
+https://app.runwayml.com/creation/d0ce9690-2ff5-4b36-8c3e-fe3fdf94cbde
 
 
----
-# 🎬Integration = Script + Image + Music + Others: 影片剪輯
