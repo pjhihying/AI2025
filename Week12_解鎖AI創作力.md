@@ -122,3 +122,34 @@
 
 **副標：**  
 一場揭開人工智慧神秘面紗的旅程，助你掌握技術，開創無限可能。
+
+
+
+
+
+
+## CC. 🎨Recraft AI: 專注生成Image, Video的生成式AI🧠
+
+### Lab 1：生成未來城市風格圖像
+<img src="https://github.com/pjhihying/temp/blob/main/--3d----------------------------------------------.png" alt="image" width="500">
+
+### Lab 2：風格對比分析
+<img src="https://github.com/pjhihying/temp/blob/main/a-magical-forest-with-glowing-mushroomsa-magical-f.png" alt="image" width="400"><img src="https://github.com/pjhihying/temp/blob/main/a-magical-forest-with-glowing-mushroomsa-magical-f%20(1).png" alt="image" width="400">
+
+### Lab 3：敘事圖像創作
+<img src="https://github.com/pjhihying/temp/blob/main/------------------------ai--------------------ai--.png" alt="image" width="500">
+
+### Lab 4：連續情節圖組設計
+<img src="https://github.com/pjhihying/temp/blob/main/1.png" alt="image" width="300"><img src="https://github.com/pjhihying/temp/blob/main/2.png" alt="image" width="300"><img src="https://github.com/pjhihying/temp/blob/main/3.png" alt="image" width="300">
+<img src="https://github.com/pjhihying/temp/blob/main/4.png" alt="image" width="300"><img src="https://github.com/pjhihying/temp/blob/main/5.png" alt="image" width="300"><img src="https://github.com/pjhihying/temp/blob/main/6.png" alt="image" width="300">
+
+---
+# 🎨Runway ML🧠
+## 🧪 Lab 1：靜態角色動畫化 – 基礎操作
+
+
+## 🧪 Lab 2：角色互動與敘事 – 進階練習
+
+
+---
+# 🎬Integration = Script + Image + Music + Others: 影片剪輯
